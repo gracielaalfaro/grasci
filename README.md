@@ -10,5 +10,5 @@ My projects are centered around:
 + a love for code🩶
   <br>
   
-Can't collaborate with like minds.🤙🏼 \#codeluv
+Can't collaborate with like minds.🤙🏼 \#devwithpurpose
   
