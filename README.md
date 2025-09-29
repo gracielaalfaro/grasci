@@ -1,3 +1,4 @@
 # grasci
-Who I am, Why I code
-+ #Hi! 
+Who I am, Why I code. 
+
+! 
