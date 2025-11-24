@@ -15,7 +15,7 @@ Python • Java • SQL • TensorFlow • Pandas • Google Cloud • BioPython
 
 ### 🤝 Let’s Connect  
 Always looking to collaborate with people who code with purpose, let's connect!
-Phone Number: 323-404-6177
-Email: gracielaalfaro3878@gmail.com
+/n Phone Number: 323-404-6177
+/n Email: gracielaalfaro3878@gmail.com
 
 **#DevWithPurpose**
